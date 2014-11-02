@@ -1,0 +1,5 @@
+[asterisknow-dvd]
+name=Asterisk Now RPM Repo DVD
+baseurl=file:///mnt/iso/
+gpgcheck=0
+enabled=1
